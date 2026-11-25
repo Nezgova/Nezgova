@@ -1,102 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&color=0:0a0000,45:7a0c0c,100:e01e1e&text=MOHAMED%20NEZHARI&fontSize=52&fontColor=FFD166&fontAlignY=38&animation=fadeIn&desc=%F0%9F%90%89%20House%20of%20the%20Terminal%20%C2%B7%20Software%20Engineer%20%C2%B7%20Dragonrider%20of%20Code%20%F0%9F%94%A5&descSize=18&descColor=FF6B4A&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0a0000,45:7a0c0c,100:e01e1e&text=Mohamed%20Nezhari&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20in%20Progress%20%C2%B7%20AI-Driven%20Product%20Builder%20%C2%B7%20Team%20Leader&descSize=17&descColor=FFB3B3&descAlignY=60" width="100%" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3B30&center=true&vCenter=true&width=760&height=45&lines=%F0%9F%94%A5+igniting+nez.exe+...;%F0%9F%90%89+house%3A+Targaryen+of+the+Terminal;%F0%9F%94%A5+forging+products+in+fire+and+Java;%F0%9F%91%91+quest%3A+conquer+the+stack%2C+then+found+an+empire)](https://git.io/typing-svg)
+Building practical software products, from backend architecture and full-stack applications to privacy-first AI systems.
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=FF3B30&center=true&vCenter=true&width=650&lines=Engineering+useful+software+from+zero+to+one;Exploring+local+LLMs+and+applied+AI;Building+full-stack+products+with+Java+%26+React)](https://git.io/typing-svg)
 
-![Realm](https://img.shields.io/badge/REALM-Marrakech%2C_Morocco-B11226?style=for-the-badge&labelColor=0a0000)
-![Rank](https://img.shields.io/badge/RANK-4th_Year_Engineer-D4AF37?style=for-the-badge&labelColor=0a0000)
-![Next](https://img.shields.io/badge/NEXT_CONQUEST-CGI_Apprenticeship-FF6B00?style=for-the-badge&labelColor=0a0000)
-
+![Location](https://img.shields.io/badge/Marrakech-Morocco-B11226?style=for-the-badge&labelColor=0a0000)
+![Education](https://img.shields.io/badge/Engineering_Student-EMSI-E01E1E?style=for-the-badge&labelColor=0a0000)
 [![GitHub](https://img.shields.io/badge/GitHub-Nezgova-181717?style=for-the-badge&logo=github&labelColor=0a0000)](https://github.com/Nezgova)
-[![Email](https://img.shields.io/badge/Send_a_Raven-Email-B11226?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0000)](mailto:NezhariMohamed.eng@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Nezgova&label=SUBJECTS+VISITED&color=b11226&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-Contact_me-B11226?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0000)](mailto:NezhariMohamed.eng@gmail.com)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0000,50:e01e1e,100:0a0000" width="100%" alt="divider"/>
 
-## 🔥 I · THE HOUSE SHEET
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm a **fourth-year Computer Science Engineering student at EMSI**, with a background in computer science at **Université Grenoble Alpes**.
 
-```ini
-╔═════════════════════════════════════════════╗
-║  NAME     : Mohamed "Nez" Nezhari           ║
-║  HOUSE    : Targaryen of the Terminal       ║
-║  SIGIL    : 🐉 Three-headed dragon, red/black║
-║  TITLE    : Software Engineer in Progress   ║
-║  COURT    : EMSI · Université Grenoble Alpes║
-║  DRAGONS  : Java · Spring Boot · React      ║
-║  WORDS    : Fire, Blood & Clean Commits     ║
-║  CREED    : Keep learning. Keep shipping.   ║
-╚═════════════════════════════════════════════╝
-```
+I enjoy taking ideas from concept to working software: understanding the problem, designing the architecture, building the product, and iterating on it. My main interests are **software engineering, backend systems, applied AI, and technical leadership**.
 
-</td>
-<td width="40%" valign="top">
-
-```ini
-[ DRAGONFIRE ]
-BACKEND     🔥🔥🔥🔥🔥🔥🔥🔥▫▫
-FRONTEND    🔥🔥🔥🔥🔥🔥🔥▫▫▫
-AI / LLM    🔥🔥🔥🔥🔥🔥▫▫▫▫
-SYSTEMS (C) 🔥🔥🔥🔥🔥🔥▫▫▫▫
-LEADERSHIP  🔥🔥🔥🔥🔥🔥🔥🔥▫▫
-```
-
-</td>
-</tr>
-</table>
-
-> *A fourth-year Computer Science Engineering student at **EMSI**, forged further at **Université Grenoble Alpes**. I take ideas from smoke to a living, breathing product: understand the problem, design the architecture, build it, then keep iterating until it burns bright.*
-
-- 🐉 Taming **local LLMs** and API integrations into AI-powered apps
-- 🏰 Raising solid backends: **REST APIs, security, scalable architecture**
-- ⚔️ Wielding AI-assisted tools: **Codex, Claude Code, OpenCode**
-- 👑 Leading teams, organizing events, helping others rise
-- 🔥 Currently training: **software architecture · AI engineering · scalable products**
+- 🤖 Building AI-powered applications with local LLMs and API integrations
+- 🧱 Interested in clean backend architecture, REST APIs, security, and full-stack development
+- 🛠️ Using AI-assisted development tools such as Codex, Claude Code, and OpenCode as part of my workflow
+- 🤝 Enjoy leading teams, organizing events, and helping people grow
+- 🌱 Currently deepening my skills in software architecture, AI engineering, and scalable product development
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0000,50:e01e1e,100:0a0000" width="100%" alt="divider"/>
 
-## 🐉 II · DRAGONS OF THE REALM (FEATURED PROJECTS)
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td align="center" width="50%">
 
 <a href="https://github.com/Nezgova/Nez-Ai">
-<img src="https://raw.githubusercontent.com/Nezgova/Nez-Ai/main/frontend/public/brand/nez-ai-logo.png" width="130" alt="Nez AI"/>
+<img src="https://raw.githubusercontent.com/Nezgova/Nez-Ai/main/frontend/public/brand/nez-ai-logo.png" width="130" alt="Nez AI Logo"/>
 </a>
 
-### 🧠 NEZ AI
-`🐉 ANCIENT DRAGON`
+### Nez AI
 
 **Privacy-first local AI assistant**
 
-`Local LLM` `Multimodal` `PDF` `Voice`
+`Local LLM` `Multimodal AI` `PDF` `Voice`
 
-[**⟶ Behold the Dragon**](https://github.com/Nezgova/Nez-Ai)
+[View repository](https://github.com/Nezgova/Nez-Ai)
 
 </td>
 <td align="center" width="50%">
 
 <a href="https://github.com/Nezgova/DocuFlow">
-<img src="https://raw.githubusercontent.com/Nezgova/DocuFlow/main/assets/logo.png" width="130" alt="DocuFlow"/>
+<img src="https://raw.githubusercontent.com/Nezgova/DocuFlow/main/assets/logo.png" width="130" alt="DocuFlow Logo"/>
 </a>
 
-### 📑 DOCUFLOW
-`🐉 ANCIENT DRAGON`
+### DocuFlow
 
 **Document review & workflow platform**
 
 `Spring Boot` `React` `Security` `Workflow`
 
-[**⟶ Behold the Dragon**](https://github.com/Nezgova/DocuFlow)
+[View repository](https://github.com/Nezgova/DocuFlow)
 
 </td>
 </tr>
@@ -107,124 +71,119 @@ LEADERSHIP  🔥🔥🔥🔥🔥🔥🔥🔥▫▫
 <img src="https://img.icons8.com/fluency/240/globe.png" width="130" alt="GlobalQuakeTracker"/>
 </a>
 
-### 🌍 GLOBALQUAKETRACKER
-`🔥 YOUNG DRAGON`
+### GlobalQuakeTracker
 
 **Earthquake monitoring & visualization**
 
 `Python` `Flask` `USGS API`
 
-[**⟶ Behold the Dragon**](https://github.com/Nezgova/GlobalQuakeTracker)
+[View repository](https://github.com/Nezgova/GlobalQuakeTracker)
 
 </td>
 <td align="center" width="50%">
 
 <a href="https://github.com/Nezgova/Movie-App">
-<img src="https://raw.githubusercontent.com/Nezgova/Movie-App/main/movie-app/frontend/public/LOGO.png" width="130" alt="Nezflix"/>
+<img src="https://raw.githubusercontent.com/Nezgova/Movie-App/main/movie-app/frontend/public/LOGO.png" width="130" alt="Nezflix Logo"/>
 </a>
 
-### 🎬 NEZFLIX
-`🔥 YOUNG DRAGON`
+### Nezflix
 
 **Movie & series platform**
 
 `React` `Node.js` `Express` `MySQL`
 
-[**⟶ Behold the Dragon**](https://github.com/Nezgova/Movie-App)
+[View repository](https://github.com/Nezgova/Movie-App)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>🥚 Visit the hatchery: more projects</b></summary>
+<summary><b>🧩 More projects</b></summary>
 <br/>
 
-| Dragon Egg | Description |
-|---|---|
-| 🛠️ [IT Desk Support](https://github.com/Nezgova/IT_Desk_Support) | IT support & ticket-management system |
-| 💊 [Pharmacy Stock Management](https://github.com/Nezgova/Gestion-du-stock-d-une-pharmacie) | Inventory management application |
-| 🩺 [MedTrack](https://github.com/Nezgova/MedTrack) | Healthcare-related software project |
-| 📖 [Quran Web App](https://github.com/Nezgova/Quran-Web-App) · [Live](https://nezgova.github.io/Quran-Web-App/Project/home.html) | Web app for reading the Quran |
-| 🐍 [Diabetes Data Science](https://github.com/Nezgova/Data_Science_Diabetes) | Data science exploration of a diabetes dataset |
-| 🎮 [Shadow Dash](https://github.com/Nezgova/Shadow-Dash) | Java game project |
+- 🛠️ [IT Desk Support](https://github.com/Nezgova/IT_Desk_Support): IT support and ticket-management project
+- 💊 [Pharmacy Stock Management](https://github.com/Nezgova/Gestion-du-stock-d-une-pharmacie): inventory management application
+- 🩺 [MedTrack](https://github.com/Nezgova/MedTrack): healthcare-related software project
+- 📖 [Quran Web App](https://github.com/Nezgova/Quran-Web-App): web application for reading the Quran ([live demo](https://nezgova.github.io/Quran-Web-App/Project/home.html))
+- 🐍 [Diabetes Data Science](https://github.com/Nezgova/Data_Science_Diabetes): data science project exploring a diabetes dataset
+- 🎮 [Shadow Dash](https://github.com/Nezgova/Shadow-Dash): Java game project
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0000,50:e01e1e,100:0a0000" width="100%" alt="divider"/>
 
-## ⚔️ III · THE ARMORY (TECH STACK)
+## 🧰 Tech Stack
 
 <div align="center">
 
-**🔥 Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,php,cs&theme=dark" alt="languages"/>
 
-**🏰 Backend & Frontend**
+**Backend & Frontend**
 
 <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,angular,tailwind,flask,laravel&theme=dark" alt="frameworks"/>
 
-**🐉 Data, AI & Infrastructure**
+**AI, Data & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git&theme=dark" alt="infra"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git&theme=dark" alt="infrastructure"/>
 
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Query_Sorcery-B11226?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B11226?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0000,50:e01e1e,100:0a0000" width="100%" alt="divider"/>
 
-## 👑 IV · CHRONICLE OF CONQUESTS
+## 💼 Experience & Leadership
 
-```diff
-- 2026 ▸ NEXT CONQUEST: Apprenticeship @ CGI (IT consulting), starting September
-+ 2025 ▸ Software Development Intern, R&D @ SAFY.io: e-signature platform (Java · Angular)
-+ 2023–2025 ▸ Career Center Ambassador @ EMSI: Job Forum & Internship Forum, CV/LinkedIn coaching
-+ 2024–2025 ▸ TEDx @ EMSI: organizing committee member & mentor
-+ 2023–2024 ▸ Host @ GITEX Government Industry Academia Hub
-+ 2022–2023 ▸ Innovation Club Co-Project Manager: built the club site in React, gave talks on Git, React & innovation
-```
+- **Software Development Intern, R&D at SAFY.io SARL (July 2025):** Contributed to an electronic-signature platform using Java and Angular, working independently and within an R&D team.
+- **Career Center Ambassador, EMSI (2023–2025):** Helped organize the 9th Job Forum and Internship Forum, and coached students on LinkedIn, CVs, and career planning.
+- **TEDx Conferences, EMSI (2024–2025):** Organizing committee member and mentor.
+- **GITEX Government Industry Academia Hub (2023–2024):** Host.
+- **Innovation Club Co-Project Manager (2022–2023):** Built the club website with React and delivered talks on GitHub, React, and innovation.
 
-| 🏫 Academy | 📜 Title | ⏳ Era |
+## 🎓 Education
+
+| Institution | Program | Period |
 |---|---|---|
-| **EMSI** | Engineering Degree in Computer Science | 2026 → now |
-| **Université Grenoble Alpes** | Bachelor's in General Computer Science (L3) | 2025 – 2026 |
-| **EMSI** | Engineering & Preparatory Cycles | 2022 – 2025 |
+| **EMSI, Moroccan School of Engineering Sciences** | Engineering Degree in Computer Science | 2026 – Present |
+| **Université Grenoble Alpes** | Bachelor's Degree in General Computer Science (L3) | 2025 – 2026 |
+| **EMSI, Moroccan School of Engineering Sciences** | Engineering Cycle and Preparatory Cycle | 2022 – 2025 |
 
-**🗣️ Tongues of the Realm:** 🇲🇦 Arabic `Native` · 🇫🇷 French `C1` · 🇬🇧 English `C2`
+## 🌐 Languages
+
+🇲🇦 Arabic: Native · 🇫🇷 French: C1 · 🇬🇧 English: C2
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0000,50:e01e1e,100:0a0000" width="100%" alt="divider"/>
 
-## 🔥 V · BATTLE RECORD
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nezgova&show_icons=true&title_color=FF3B30&text_color=E8D5D5&icon_color=FFB703&bg_color=0A0000&border_color=8B0000&rank_icon=github" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezgova&layout=compact&title_color=FF3B30&text_color=E8D5D5&bg_color=0A0000&border_color=8B0000" alt="top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nezgova&show_icons=true&title_color=FF3B30&text_color=E8D5D5&icon_color=FF6B4A&bg_color=0A0000&border_color=8B0000&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezgova&layout=compact&title_color=FF3B30&text_color=E8D5D5&bg_color=0A0000&border_color=8B0000" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Nezgova&background=0A0000&ring=E01E1E&fire=FF6B00&currStreakNum=FFB703&currStreakLabel=FF3B30&sideNums=E8D5D5&sideLabels=B11226&dates=A08080&stroke=8B0000&border=8B0000" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Nezgova&background=0A0000&ring=E01E1E&fire=FF6B4A&currStreakNum=FFFFFF&currStreakLabel=FF3B30&sideNums=E8D5D5&sideLabels=B11226&dates=A08080&stroke=8B0000&border=8B0000" alt="Contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nezgova&bg_color=0A0000&color=FF3B30&line=FF6B00&point=FFD166&area=true&area_color=8B0000&hide_border=true&title_color=FF3B30" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nezgova&bg_color=0A0000&color=FF3B30&line=E01E1E&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&title_color=FF3B30" alt="Activity graph"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0000,50:e01e1e,100:0a0000" width="100%" alt="divider"/>
 
-## 🕯️ VI · SEND A RAVEN
+## 📫 Let's Connect
 
-> *Always open to meaningful engineering quests, applied AI projects, and teams building useful things with care. The long game: international mobility, leading teams, and one day founding my own company.*
+I'm always interested in meaningful engineering challenges, applied AI projects, and opportunities to build useful products with thoughtful teams.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nezgova-181717?style=for-the-badge&logo=github&labelColor=0a0000)](https://github.com/Nezgova)
-[![Email](https://img.shields.io/badge/Send_a_Raven-Get_in_touch-B11226?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0000)](mailto:NezhariMohamed.eng@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-B11226?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0000)](mailto:NezhariMohamed.eng@gmail.com)
 
-```text
-🔥 "Build things that solve real problems. Keep learning. Keep shipping." 🔥
-```
+*"Build things that solve real problems. Keep learning. Keep shipping."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:e01e1e,55:7a0c0c,100:0a0000" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:e01e1e,55:7a0c0c,100:0a0000" width="100%" alt="footer"/>
 
 </div>
