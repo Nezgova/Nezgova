@@ -30,60 +30,69 @@ I enjoy taking ideas from concept to working software: understanding the problem
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🧠 [Nez AI](https://github.com/Nezgova/Nez-Ai)
+<a href="https://github.com/Nezgova/Nez-Ai">
+<img src="https://raw.githubusercontent.com/Nezgova/Nez-Ai/main/frontend/public/brand/nez-ai-logo.png" width="150" alt="Nez AI Logo"/>
+</a>
+
+### 🧠 Nez AI
 
 **Privacy-first local AI assistant**
 
-A full-stack assistant designed to run locally without relying on a cloud AI provider.
+Local LLM · Multimodal AI · PDF · Voice
 
-- 💬 Local LLM chat with Ollama and Qwen
-- 🖼️ Multimodal image understanding
-- 📄 Local PDF extraction, chunking, and contextual Q&A
-- 🎙️ Offline speech-to-text with whisper.cpp
-
-**Stack:** Java 21 · Spring Boot · React · TypeScript · Ollama · PDFBox
+[Repository](https://github.com/Nezgova/Nez-Ai)
 
 </td>
-<td width="50%" valign="top">
 
-### 📑 [DocuFlow](https://github.com/Nezgova/DocuFlow)
+<td align="center" width="50%">
+
+<a href="https://github.com/Nezgova/DocuFlow">
+<img src="https://raw.githubusercontent.com/Nezgova/DocuFlow/main/assets/logo.png" width="150" alt="DocuFlow Logo"/>
+</a>
+
+### 📑 DocuFlow
 
 **Document review & workflow platform**
 
-A full-stack platform for structured document submissions, approvals, versioning, and auditability.
+Spring Boot · React · Security · Workflow
 
-- 🔐 JWT authentication and role-based access control
-- ✅ Multi-reviewer approval workflows and state management
-- 🗂️ Version history, comments, and notifications
-- 🧾 Audit logs and PDF/CSV reporting
-
-**Stack:** Java 21 · Spring Boot · Spring Security · React · Tailwind · MySQL
+[Repository](https://github.com/Nezgova/DocuFlow)
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🌍 [GlobalQuakeTracker](https://github.com/Nezgova/GlobalQuakeTracker)
+### 🌍 GlobalQuakeTracker
 
-**Earthquake monitoring and risk visualization**
+<a href="https://github.com/Nezgova/GlobalQuakeTracker">
+<img src="https://img.icons8.com/fluency/240/globe.png" width="150" alt="GlobalQuakeTracker"/>
+</a>
 
-A web application that uses earthquake data from the USGS API and OpenQuake to help visualize seismic activity and potential impact.
+**Earthquake monitoring & visualization**
 
-**Stack:** Python · Flask · USGS API · OpenQuake
+Python · Flask · USGS API
+
+[Repository](https://github.com/Nezgova/GlobalQuakeTracker)
 
 </td>
-<td width="50%" valign="top">
 
-### 🎬 [Nezflix](https://github.com/Nezgova/Movie-App)
+<td align="center" width="50%">
 
-**Movie and series streaming web app**
+<a href="https://github.com/Nezgova/Movie-App">
+<img src="https://raw.githubusercontent.com/Nezgova/Movie-App/main/movie-app/frontend/public/LOGO.png" width="150" alt="Nezflix Logo"/>
+</a>
 
-A streaming-style web application with authentication, content management, user profiles, favorites, and search.
+### 🎬 Nezflix
 
-**Stack:** React · Node.js · Express · MySQL
+**Movie & series platform**
+
+React · Node.js · Express · MySQL
+
+[Repository](https://github.com/Nezgova/Movie-App)
 
 </td>
 </tr>
